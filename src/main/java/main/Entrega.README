@@ -1,0 +1,14 @@
+Entrega actividad 2 - POO 
+
+Esta entrega fue mucho mas desafiante que la anterior, tomandome más tiempo, sobre todo las configuraciones del Main para como el usuario interactuaba con la 
+biblioteca.
+
+Aqui cree tres clases, Biblioteca, Usuario y Libro. Cada uno cuenta con los metodos requeridos según los requisitos de la actividad. 
+
+El usuario puede registrarse con su nombre, puede alquilar y devolver libros alquilados, para eso necesita colocar su nombre y el nombre del libro que desea
+alquilar/devolver. 
+
+Puede ver tambien la lista de libros guardados en la biblioteca.
+
+También puede agregarse libros, siendo necesario que coloque datos como el titulo, autor y genero de dicho libro. 
+
